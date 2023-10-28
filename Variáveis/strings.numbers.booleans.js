@@ -1,5 +1,3 @@
-
-
 //Variável string são as que guardam textos
 
 let nomePokemon = "Pikachu"

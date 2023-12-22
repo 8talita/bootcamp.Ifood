@@ -1,5 +1,5 @@
-// minhas variáveis
-let meuHeroi = "Thor Deus do Trovão"
+//Variáveis escolhidas
+let myHero = "Mamis Show"
 let pontosXP = 2000
 
 // estrutura de decisão
@@ -24,4 +24,4 @@ if (pontosXP < 1000) {
 }
 
 // Saída
-console.log(`O Herói de nome ${meuHeroi} está no nível de ${nivelDoHeroi}!`)
+console.log(`O Herói de nome ${myHero} está no nível de ${nivelDoHeroi}!`)
